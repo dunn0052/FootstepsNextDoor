@@ -1,5 +1,5 @@
 from enum import Enum
-from Button import Button, ButtonInput, State
+from IO.Button import Button, ButtonInput, State
 import pygame.joystick
 
 
