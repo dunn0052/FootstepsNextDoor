@@ -139,6 +139,7 @@ Number of buttons: {self.joystick.get_numbuttons()} Number of axis: {self.joysti
             return f"Keyboard"
 
 if __name__ == "__main__":
+    print("Controller class test")
     pygame.init()
     clock = pygame.time.Clock()
 
